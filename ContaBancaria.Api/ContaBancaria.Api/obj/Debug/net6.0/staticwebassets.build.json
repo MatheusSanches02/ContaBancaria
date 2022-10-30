@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1aHvWtRADyBUU4De+G9J/WP72mMeIQnjfN9ILV9ag+Y=",
+  "Source": "ContaBancaria.Api",
+  "BasePath": "_content/ContaBancaria.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
